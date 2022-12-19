@@ -87,6 +87,8 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008982
 
 - Wet-lab data analysis
 
+    - Effects of UTR sequence : Heatmap? Chi-squre test? ANOVA?
+
 - Shape-MaP Report prep.
 
 ## 9. Database - **Kim pro**
